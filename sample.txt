@@ -1,1 +1,6 @@
 サンプルファイルです。
+
+<以下、branch1で追加した内容>
+name
+password
+address
